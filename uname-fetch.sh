@@ -1,5 +1,5 @@
 echo    "--- System ---"
-echo -n "System: ";       uname -o
+echo -n "OS: ";       uname -o
 echo -n "Hostname: ";     uname -n
 echo    "--------------"
 echo
